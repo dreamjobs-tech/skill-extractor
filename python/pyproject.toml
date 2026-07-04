@@ -31,6 +31,3 @@ Repository = "https://github.com/dreamjobs-tech/skill-extractor"
 
 [tool.hatch.build.targets.wheel]
 packages = ["skill_extractor"]
-
-[tool.hatch.build.targets.wheel.force-include]
-"skill_extractor/data" = "skill_extractor/data"
