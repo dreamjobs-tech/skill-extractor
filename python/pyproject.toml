@@ -1,0 +1,36 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "skill-extractor"
+version = "0.1.0"
+description = "Extract skills from job postings and resumes — 32K-skill gazetteer + MiniLM embeddings + MLP context classifier (73% F1, trained on 491K samples). ONNX Runtime, no torch."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [{ name = "Qarera", email = "yashthenuan21@gmail.com" }]
+keywords = ["skill-extraction", "ner", "job-postings", "resume-parsing", "nlp", "hr-tech"]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Text Processing :: Linguistic",
+    "Intended Audience :: Developers",
+]
+dependencies = [
+    "numpy>=1.24",
+    "onnxruntime>=1.16",
+    "tokenizers>=0.15",
+    "huggingface_hub>=0.20",
+]
+
+[project.urls]
+Homepage = "https://github.com/dreamjobs-tech/skill-extractor"
+Repository = "https://github.com/dreamjobs-tech/skill-extractor"
+"Built by" = "https://www.qarera.com"
+
+[tool.hatch.build.targets.wheel]
+packages = ["skill_extractor"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"skill_extractor/data" = "skill_extractor/data"

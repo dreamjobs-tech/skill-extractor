@@ -1,0 +1,512 @@
+{
+ "threshold": 0.5,
+ "prob_tolerance": 0.002,
+ "cases": [
+  {
+   "text": "Senior Backend Engineer (m/f/d) — Berlin or remote. We are looking for an engineer\nwith 5+ years of experience building distributed systems in Python or Go. You will design\nREST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda,\nS3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about\nobservability (Grafana, Prometheus) and write clean, tested code. Strong communication\nskills and fluent English required, German is a bonus.",
+   "candidates": [
+    {
+     "skill": "distributed systems",
+     "context": "Senior Backend Engineer (m/f/d) — Berlin or remote. We are looking for an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on"
+    },
+    {
+     "skill": "python",
+     "context": "(m/f/d) — Berlin or remote. We are looking for an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda,"
+    },
+    {
+     "skill": "go",
+     "context": "Berlin or remote. We are looking for an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience"
+    },
+    {
+     "skill": "rest apis",
+     "context": "are looking for an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes"
+    },
+    {
+     "skill": "fastapi",
+     "context": "an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform"
+    },
+    {
+     "skill": "postgresql",
+     "context": "5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus."
+    },
+    {
+     "skill": "schemas",
+     "context": "years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You"
+    },
+    {
+     "skill": "aws",
+     "context": "systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus)"
+    },
+    {
+     "skill": "ecs",
+     "context": "Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write"
+    },
+    {
+     "skill": "lambda",
+     "context": "Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write"
+    },
+    {
+     "skill": "s3",
+     "context": "or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean,"
+    },
+    {
+     "skill": "docker",
+     "context": "will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong"
+    },
+    {
+     "skill": "kubernetes",
+     "context": "REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills"
+    },
+    {
+     "skill": "terraform",
+     "context": "FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English"
+    },
+    {
+     "skill": "observability",
+     "context": "workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus."
+    },
+    {
+     "skill": "grafana",
+     "context": "AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus."
+    },
+    {
+     "skill": "prometheus",
+     "context": "AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus."
+    },
+    {
+     "skill": "clean",
+     "context": "S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus."
+    },
+    {
+     "skill": "communication",
+     "context": "and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus."
+    },
+    {
+     "skill": "english",
+     "context": "Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus."
+    }
+   ],
+   "embed_inputs": [
+    "distributed systems : Senior Backend Engineer (m/f/d) — Berlin or remote. We are looking for an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on",
+    "python : (m/f/d) — Berlin or remote. We are looking for an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda,",
+    "go : Berlin or remote. We are looking for an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience",
+    "rest apis : are looking for an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes",
+    "fastapi : an engineer with 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform",
+    "postgresql : 5+ years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus.",
+    "schemas : years of experience building distributed systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You",
+    "aws : systems in Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus)",
+    "ecs : Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write",
+    "lambda : Python or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write",
+    "s3 : or Go. You will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean,",
+    "docker : will design REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong",
+    "kubernetes : REST APIs with FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills",
+    "terraform : FastAPI, own our PostgreSQL schemas, and run workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English",
+    "observability : workloads on AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus.",
+    "grafana : AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus.",
+    "prometheus : AWS (ECS, Lambda, S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus.",
+    "clean : S3). Experience with Docker and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus.",
+    "communication : and Kubernetes is required; Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus.",
+    "english : Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus."
+   ],
+   "probs": [
+    0.113574,
+    0.980619,
+    0.952831,
+    0.969999,
+    0.999701,
+    0.999238,
+    0.984197,
+    0.996883,
+    0.998986,
+    0.999831,
+    0.999489,
+    0.999026,
+    0.998581,
+    0.999693,
+    0.561494,
+    0.994159,
+    0.987502,
+    0.37325,
+    0.215595,
+    0.835512
+   ],
+   "skills": [
+    "aws",
+    "docker",
+    "ecs",
+    "english",
+    "fastapi",
+    "go",
+    "grafana",
+    "kubernetes",
+    "lambda",
+    "observability",
+    "postgresql",
+    "prometheus",
+    "python",
+    "rest apis",
+    "s3",
+    "schemas",
+    "terraform"
+   ]
+  },
+  {
+   "text": "Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning\nmodels with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to\nstakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus.\nExcellent problem solving and teamwork expected.",
+   "candidates": [
+    {
+     "skill": "python",
+     "context": "Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings"
+    },
+    {
+     "skill": "sql",
+     "context": "Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to"
+    },
+    {
+     "skill": "dbt",
+     "context": "Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity"
+    },
+    {
+     "skill": "machine learning",
+     "context": "Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering"
+    },
+    {
+     "skill": "scikit-learn",
+     "context": "Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is"
+    },
+    {
+     "skill": "pytorch",
+     "context": "Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong"
+    },
+    {
+     "skill": "mlflow",
+     "context": "— we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving"
+    },
+    {
+     "skill": "llms",
+     "context": "You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected."
+    },
+    {
+     "skill": "prompt engineering",
+     "context": "build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected."
+    },
+    {
+     "skill": "rag pipelines",
+     "context": "models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected."
+    },
+    {
+     "skill": "problem solving",
+     "context": "via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected."
+    },
+    {
+     "skill": "teamwork",
+     "context": "communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected."
+    }
+   ],
+   "embed_inputs": [
+    "python : Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings",
+    "sql : Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to",
+    "dbt : Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity",
+    "machine learning : Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering",
+    "scikit-learn : Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is",
+    "pytorch : Data Scientist — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong",
+    "mlflow : — we use Python, SQL and dbt daily. You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving",
+    "llms : You'll build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected.",
+    "prompt engineering : build machine learning models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected.",
+    "rag pipelines : models with scikit-learn and PyTorch, deploy them via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected.",
+    "problem solving : via MLflow, and communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected.",
+    "teamwork : communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected."
+   ],
+   "probs": [
+    0.99985,
+    0.999484,
+    0.994185,
+    0.942658,
+    0.952873,
+    0.991454,
+    0.993001,
+    0.919879,
+    0.749889,
+    0.652551,
+    0.134079,
+    0.979806
+   ],
+   "skills": [
+    "dbt",
+    "llms",
+    "machine learning",
+    "mlflow",
+    "prompt engineering",
+    "python",
+    "pytorch",
+    "rag pipelines",
+    "scikit-learn",
+    "sql",
+    "teamwork"
+   ]
+  },
+  {
+   "text": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components),\nNode.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background,\nVue.js, testing with Jest.",
+   "candidates": [
+    {
+     "skill": "react.js",
+     "context": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js,"
+    },
+    {
+     "skill": "next.js",
+     "context": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing"
+    },
+    {
+     "skill": "typescript",
+     "context": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    },
+    {
+     "skill": "css-in-js",
+     "context": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    },
+    {
+     "skill": "styled-components",
+     "context": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    },
+    {
+     "skill": "node.js",
+     "context": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    },
+    {
+     "skill": "c++",
+     "context": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    },
+    {
+     "skill": "c#",
+     "context": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    },
+    {
+     "skill": ".net (c#)",
+     "context": "Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    },
+    {
+     "skill": "vue.js",
+     "context": "React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    },
+    {
+     "skill": "testing",
+     "context": "Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    },
+    {
+     "skill": "jest",
+     "context": "TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+    }
+   ],
+   "embed_inputs": [
+    "react.js : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js,",
+    "next.js : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing",
+    "typescript : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
+    "css-in-js : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
+    "styled-components : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
+    "node.js : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
+    "c++ : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
+    "c# : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
+    ".net (c#) : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
+    "vue.js : React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
+    "testing : Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
+    "jest : TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
+   ],
+   "probs": [
+    0.999594,
+    0.999447,
+    0.999374,
+    0.998712,
+    0.980506,
+    0.995079,
+    0.998988,
+    0.999673,
+    0.99922,
+    0.994184,
+    0.886043,
+    0.99898
+   ],
+   "skills": [
+    ".net (c#)",
+    "c#",
+    "c++",
+    "css-in-js",
+    "jest",
+    "next.js",
+    "node.js",
+    "react.js",
+    "styled-components",
+    "testing",
+    "typescript",
+    "vue.js"
+   ]
+  },
+  {
+   "text": "Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear\nmany hats and drive impact across the org. Benefits include free snacks and a dog-friendly\noffice in Munich.",
+   "candidates": [
+    {
+     "skill": "passion",
+     "context": "Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and"
+    },
+    {
+     "skill": "can-do attitude",
+     "context": "Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office"
+    },
+    {
+     "skill": "impact",
+     "context": "Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich."
+    },
+    {
+     "skill": "benefits",
+     "context": "team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich."
+    },
+    {
+     "skill": "dog",
+     "context": "a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich."
+    }
+   ],
+   "embed_inputs": [
+    "passion : Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and",
+    "can-do attitude : Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office",
+    "impact : Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich.",
+    "benefits : team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich.",
+    "dog : a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich."
+   ],
+   "probs": [
+    0.000391,
+    0.003199,
+    1e-06,
+    2.4e-05,
+    0.005833
+   ],
+   "skills": []
+  },
+  {
+   "text": "python;java,kotlin/swift docker",
+   "candidates": [
+    {
+     "skill": "python",
+     "context": "python;java,kotlin/swift docker"
+    },
+    {
+     "skill": "java",
+     "context": "python;java,kotlin/swift docker"
+    },
+    {
+     "skill": "kotlin",
+     "context": "python;java,kotlin/swift docker"
+    },
+    {
+     "skill": "swift",
+     "context": "python;java,kotlin/swift docker"
+    },
+    {
+     "skill": "docker",
+     "context": "python;java,kotlin/swift docker"
+    }
+   ],
+   "embed_inputs": [
+    "python : python;java,kotlin/swift docker",
+    "java : python;java,kotlin/swift docker",
+    "kotlin : python;java,kotlin/swift docker",
+    "swift : python;java,kotlin/swift docker",
+    "docker : python;java,kotlin/swift docker"
+   ],
+   "probs": [
+    0.999625,
+    0.998346,
+    0.997388,
+    0.995586,
+    0.995712
+   ],
+   "skills": [
+    "docker",
+    "java",
+    "kotlin",
+    "python",
+    "swift"
+   ]
+  },
+  {
+   "text": "PYTHON developer. Python scripting. We love PYTHON and SQL and sql.",
+   "candidates": [
+    {
+     "skill": "python",
+     "context": "PYTHON developer. Python scripting. We love PYTHON and SQL and sql."
+    },
+    {
+     "skill": "python scripting",
+     "context": "PYTHON developer. Python scripting. We love PYTHON and SQL and sql."
+    },
+    {
+     "skill": "python",
+     "context": "PYTHON developer. Python scripting. We love PYTHON and SQL and sql."
+    },
+    {
+     "skill": "sql",
+     "context": "PYTHON developer. Python scripting. We love PYTHON and SQL and sql."
+    },
+    {
+     "skill": "sql",
+     "context": "PYTHON developer. Python scripting. We love PYTHON and SQL and sql."
+    }
+   ],
+   "embed_inputs": [
+    "python : PYTHON developer. Python scripting. We love PYTHON and SQL and sql.",
+    "python scripting : PYTHON developer. Python scripting. We love PYTHON and SQL and sql.",
+    "python : PYTHON developer. Python scripting. We love PYTHON and SQL and sql.",
+    "sql : PYTHON developer. Python scripting. We love PYTHON and SQL and sql.",
+    "sql : PYTHON developer. Python scripting. We love PYTHON and SQL and sql."
+   ],
+   "probs": [
+    0.999991,
+    0.999244,
+    0.999991,
+    0.999963,
+    0.999963
+   ],
+   "skills": [
+    "python",
+    "python scripting",
+    "sql"
+   ]
+  },
+  {
+   "text": "We enjoy long walks on the beach and quarterly offsites.",
+   "candidates": [],
+   "embed_inputs": [],
+   "probs": [],
+   "skills": []
+  },
+  {
+   "text": "Kenntnisse in Python und SQL erforderlich, Erfahrung mit Kubernetes von Vorteil. Gehalt €70k.",
+   "candidates": [
+    {
+     "skill": "python",
+     "context": "Kenntnisse in Python und SQL erforderlich, Erfahrung mit Kubernetes von Vorteil. Gehalt €70k."
+    },
+    {
+     "skill": "sql",
+     "context": "Kenntnisse in Python und SQL erforderlich, Erfahrung mit Kubernetes von Vorteil. Gehalt €70k."
+    },
+    {
+     "skill": "kubernetes",
+     "context": "Kenntnisse in Python und SQL erforderlich, Erfahrung mit Kubernetes von Vorteil. Gehalt €70k."
+    }
+   ],
+   "embed_inputs": [
+    "python : Kenntnisse in Python und SQL erforderlich, Erfahrung mit Kubernetes von Vorteil. Gehalt €70k.",
+    "sql : Kenntnisse in Python und SQL erforderlich, Erfahrung mit Kubernetes von Vorteil. Gehalt €70k.",
+    "kubernetes : Kenntnisse in Python und SQL erforderlich, Erfahrung mit Kubernetes von Vorteil. Gehalt €70k."
+   ],
+   "probs": [
+    0.99939,
+    0.99952,
+    0.999307
+   ],
+   "skills": [
+    "kubernetes",
+    "python",
+    "sql"
+   ]
+  }
+ ]
+}

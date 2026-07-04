@@ -1,0 +1,40 @@
+{
+  "name": "skill-extractor",
+  "version": "0.1.0",
+  "description": "Extract skills from job postings and resumes — 32K-skill gazetteer + MiniLM embeddings + MLP context classifier (73% F1, trained on 491K samples).",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "data"
+  ],
+  "scripts": {
+    "test": "node test/matcher.test.js && node test/parity.test.js"
+  },
+  "keywords": [
+    "skill-extraction",
+    "ner",
+    "job-postings",
+    "resume-parsing",
+    "nlp",
+    "hr-tech",
+    "transformers"
+  ],
+  "author": "Qarera (https://www.qarera.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamjobs-tech/skill-extractor.git",
+    "directory": "js"
+  },
+  "homepage": "https://github.com/dreamjobs-tech/skill-extractor#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.0.0"
+  }
+}

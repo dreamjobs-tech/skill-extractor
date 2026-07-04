@@ -1,0 +1,14 @@
+{
+  "format": "skill-extractor-v1",
+  "embedding_model": "Xenova/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "max_seq_length": 256,
+  "pooling": "mean",
+  "normalize": "l2",
+  "input_template": "{skill} : {context}",
+  "context_words_before": 20,
+  "context_words_after": 21,
+  "default_threshold": 0.5,
+  "trained_on": "491K labeled samples",
+  "f1_heldout": 0.73
+}
