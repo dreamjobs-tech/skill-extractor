@@ -1,6 +1,6 @@
 {
   "name": "skill-extractor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Extract skills from job postings and resumes — 32K-skill gazetteer + MiniLM embeddings + MLP context classifier (73% F1, trained on 491K samples).",
   "type": "module",
   "main": "src/index.js",

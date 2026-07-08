@@ -6,7 +6,7 @@ Most open-source skill extractors are either bare gazetteer/regex matchers
 (every mention of "go" becomes the Go language) or thin wrappers over an LLM
 call. This one is a trained pipeline:
 
-1. **Gazetteer** — 31,836 curated skill names propose candidate spans
+1. **Gazetteer** — 30,957 curated skill names propose candidate spans
    (FlashText-style longest-match, so `.net (c#)` and `c++` work).
 2. **Context windows** — ±20 words around each hit.
 3. **MiniLM embeddings** — `all-MiniLM-L6-v2` via ONNX Runtime (no torch).

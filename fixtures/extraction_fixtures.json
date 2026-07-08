@@ -109,26 +109,26 @@
     "english : Terraform is a plus. You care about observability (Grafana, Prometheus) and write clean, tested code. Strong communication skills and fluent English required, German is a bonus."
    ],
    "probs": [
-    0.113574,
-    0.980619,
-    0.952831,
-    0.969999,
-    0.999701,
-    0.999238,
-    0.984197,
-    0.996883,
-    0.998986,
-    0.999831,
-    0.999489,
-    0.999026,
-    0.998581,
-    0.999693,
-    0.561494,
-    0.994159,
-    0.987502,
-    0.37325,
-    0.215595,
-    0.835512
+    0.11357379704713821,
+    0.9806190729141235,
+    0.9528306722640991,
+    0.9699994921684265,
+    0.999701201915741,
+    0.9992376565933228,
+    0.984197199344635,
+    0.9968825578689575,
+    0.9989858269691467,
+    0.9998308420181274,
+    0.9994887113571167,
+    0.999025821685791,
+    0.9985812902450562,
+    0.9996927976608276,
+    0.5614937543869019,
+    0.9941585063934326,
+    0.9875023365020752,
+    0.3732503652572632,
+    0.21559485793113708,
+    0.8355119824409485
    ],
    "skills": [
     "aws",
@@ -217,18 +217,18 @@
     "teamwork : communicate findings to stakeholders. Familiarity with LLMs, prompt engineering and RAG pipelines is a strong plus. Excellent problem solving and teamwork expected."
    ],
    "probs": [
-    0.99985,
-    0.999484,
-    0.994185,
-    0.942658,
-    0.952873,
-    0.991454,
-    0.993001,
-    0.919879,
-    0.749889,
-    0.652551,
-    0.134079,
-    0.979806
+    0.9998502731323242,
+    0.9994840621948242,
+    0.9941845536231995,
+    0.9426584243774414,
+    0.9528733491897583,
+    0.9914543628692627,
+    0.9930012226104736,
+    0.919879138469696,
+    0.7498885989189148,
+    0.6525508761405945,
+    0.1340787410736084,
+    0.9798057675361633
    ],
    "skills": [
     "dbt",
@@ -288,10 +288,6 @@
      "context": "React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
     },
     {
-     "skill": "testing",
-     "context": "Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
-    },
-    {
      "skill": "jest",
      "context": "TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
     }
@@ -307,22 +303,20 @@
     "c# : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
     ".net (c#) : Frontend developer needed: React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
     "vue.js : React.js, Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
-    "testing : Next.js and TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest.",
     "jest : TypeScript. CSS-in-JS (styled-components), Node.js tooling, and c++ addons occasionally. Nice to have: c# or .net (c#) background, Vue.js, testing with Jest."
    ],
    "probs": [
-    0.999594,
-    0.999447,
-    0.999374,
-    0.998712,
-    0.980506,
-    0.995079,
-    0.998988,
-    0.999673,
-    0.99922,
-    0.994184,
-    0.886043,
-    0.99898
+    0.9995936751365662,
+    0.9994469285011292,
+    0.9993743300437927,
+    0.9987123012542725,
+    0.9805060625076294,
+    0.9950791597366333,
+    0.9989880919456482,
+    0.9996733665466309,
+    0.9992204904556274,
+    0.9941840767860413,
+    0.9989795088768005
    ],
    "skills": [
     ".net (c#)",
@@ -334,7 +328,6 @@
     "node.js",
     "react.js",
     "styled-components",
-    "testing",
     "typescript",
     "vue.js"
    ]
@@ -355,10 +348,6 @@
      "context": "Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich."
     },
     {
-     "skill": "benefits",
-     "context": "team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich."
-    },
-    {
      "skill": "dog",
      "context": "a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich."
     }
@@ -367,15 +356,13 @@
     "passion : Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and",
     "can-do attitude : Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office",
     "impact : Join our fast-paced team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich.",
-    "benefits : team! We value hustle, passion and a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich.",
     "dog : a can-do attitude. You will wear many hats and drive impact across the org. Benefits include free snacks and a dog-friendly office in Munich."
    ],
    "probs": [
-    0.000391,
-    0.003199,
-    1e-06,
-    2.4e-05,
-    0.005833
+    0.0003909383958671242,
+    0.0031986727844923735,
+    9.755798373589641e-07,
+    0.005832524038851261
    ],
    "skills": []
   },
@@ -411,11 +398,11 @@
     "docker : python;java,kotlin/swift docker"
    ],
    "probs": [
-    0.999625,
-    0.998346,
-    0.997388,
-    0.995586,
-    0.995712
+    0.9996249675750732,
+    0.9983460903167725,
+    0.997387707233429,
+    0.9955862760543823,
+    0.995712399482727
    ],
    "skills": [
     "docker",
@@ -457,11 +444,11 @@
     "sql : PYTHON developer. Python scripting. We love PYTHON and SQL and sql."
    ],
    "probs": [
-    0.999991,
-    0.999244,
-    0.999991,
-    0.999963,
-    0.999963
+    0.9999909400939941,
+    0.9992437362670898,
+    0.9999909400939941,
+    0.9999630451202393,
+    0.9999630451202393
    ],
    "skills": [
     "python",
@@ -498,9 +485,9 @@
     "kubernetes : Kenntnisse in Python und SQL erforderlich, Erfahrung mit Kubernetes von Vorteil. Gehalt €70k."
    ],
    "probs": [
-    0.99939,
-    0.99952,
-    0.999307
+    0.9993895292282104,
+    0.9995195865631104,
+    0.9993066787719727
    ],
    "skills": [
     "kubernetes",
