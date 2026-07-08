@@ -7,3 +7,4 @@ __pycache__/
 Gemfile.lock
 package-lock.json
 Cargo.lock
+*.gem
